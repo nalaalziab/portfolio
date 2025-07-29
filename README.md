@@ -26,3 +26,6 @@ git remote add origin https://github.com/yourusername/portfolio.git
 
 # Push to GitHub
 git push -u origin main# portfolio
+git remote add origin https://github.com/your-username/Portfolio.git
+git branch -M main
+git push -u origin main
