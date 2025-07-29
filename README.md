@@ -29,3 +29,19 @@ git push -u origin main# portfolio
 git remote add origin https://github.com/your-username/Portfolio.git
 git branch -M main
 git push -u origin main
+# My Portfolio Website
+
+A responsive portfolio built with **HTML, CSS, and JavaScript**.
+
+## Features
+- Interactive lightbox gallery
+- Mobile-friendly design
+- Smooth animations
+
+## Live Demo
+🌐 [View Portfolio](https://your-username.github.io/Portfolio/)
+
+## Projects Completed
+1. **One-Page Website** (with Lightbox)
+2. **Interactive Quiz App**
+3. **Weather API Dashboard**
